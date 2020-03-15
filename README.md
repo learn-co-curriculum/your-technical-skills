@@ -1,6 +1,6 @@
 # Technical Skills
 
-Please view this [List of Hard Cybersecurity Analytics Skills](https://docs.google.com/document/d/1HmSMZTGdZm0MvjdKhYM1M2pjPW_1xglEu2Rqd050fSo/edit#)for this discipline. 
+Please view this [List of Hard Cybersecurity Analytics Skills](https://docs.google.com/document/d/1HmSMZTGdZm0MvjdKhYM1M2pjPW_1xglEu2Rqd050fSo/edit#) for this discipline. 
 
 A key component of your resume is the portfolio of Technical Skills that you possess. This gives a company or recruiter a convenient snapshot of your technical proficiencies, helping them to quickly qualify your candidacy.  While this section is pretty simple and straightforward, keep in mind the following do’s and don’ts when populating this section.
 
@@ -21,6 +21,6 @@ Be aware that  employers will often interview multiple people  at a time. They t
 
 In addition, you’ll want to make sure that you keep this section of your resume accurate and up to date, in case you acquire any new skills that a potential employer or recruiter should know about. This helps optimize the visibility of your resume as well as your competitiveness in the greater job market as a whole.
 
-Here is a detailed [List of the Cybersecurity Analytics Skills Descriptions](https://docs.google.com/document/d/11HI0zCGYSE5CYoixTQu5Mn8UY5N_96M7CAqg-G2eu8c/edit?ts=5e5fee28)for your resume and LinkedIn profile. 
+Here is a detailed [List of the Cybersecurity Analytics Skills Descriptions](https://docs.google.com/document/d/11HI0zCGYSE5CYoixTQu5Mn8UY5N_96M7CAqg-G2eu8c/edit?ts=5e5fee28) for your resume and LinkedIn profile. 
 
 
